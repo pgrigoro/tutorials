@@ -777,7 +777,7 @@
         <groovy.version>2.5.2</groovy.version>
         <noexception.version>1.1.0</noexception.version>
         <logging-interceptor.version>3.9.0</logging-interceptor.version>
-        <yarg.version>2.0.4</yarg.version>
+        <yarg.version>2.0.12</yarg.version>
         <mbassador.version>1.3.1</mbassador.version>
         <jdeferred.version>1.2.6</jdeferred.version>
         <functionaljava.version>4.8.1</functionaljava.version>
