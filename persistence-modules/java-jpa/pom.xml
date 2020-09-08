@@ -106,9 +106,9 @@
 	</build>
 
     <properties>
-        <hibernate.version>5.4.0.Final</hibernate.version>
+        <hibernate.version>5.4.18.Final</hibernate.version>
         <eclipselink.version>2.7.4-RC1</eclipselink.version>
-        <postgres.version>42.2.5</postgres.version>
+        <postgres.version>42.2.13</postgres.version>
         <javax.persistence-api.version>2.2</javax.persistence-api.version>
         <maven-processor-plugin.version>3.3.3</maven-processor-plugin.version>
         <build-helper-maven-plugin.version>3.0.0</build-helper-maven-plugin.version>
