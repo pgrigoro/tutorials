@@ -128,13 +128,13 @@
     </dependencies>
 
     <properties>
-        <flink.version>1.5.0</flink.version>
+        <flink.version>1.9.3</flink.version>
         <hll.version>1.6.0</hll.version>
         <crdt.version>0.1.0</crdt.version>
         <unit-ri.version>1.0.3</unit-ri.version>
         <docx4j.version>3.3.5</docx4j.version>
         <jaxb-api.version>2.1</jaxb-api.version>
-        <google-api.version>1.23.0</google-api.version>
+        <google-api.version>1.31.0</google-api.version>
         <opencsv.version>4.1</opencsv.version>
         <smooks.version>1.7.0</smooks.version>
         <infinispan.version>9.1.5.Final</infinispan.version>
