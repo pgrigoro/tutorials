@@ -712,7 +712,7 @@
 
         <googleclient.version>1.23.0</googleclient.version>
         <multiverse.version>0.7.0</multiverse.version>
-        <cglib.version>3.2.7</cglib.version>
+        <cglib.version>3.2.11</cglib.version>
         <javatuples.version>1.2</javatuples.version>
         <javaassist.version>3.21.0-GA</javaassist.version>
         <assertj.version>3.6.2</assertj.version>
