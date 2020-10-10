@@ -134,7 +134,7 @@
         <unit-ri.version>1.0.3</unit-ri.version>
         <docx4j.version>3.3.5</docx4j.version>
         <jaxb-api.version>2.1</jaxb-api.version>
-        <google-api.version>1.23.0</google-api.version>
+        <google-api.version>1.28.0</google-api.version>
         <opencsv.version>4.1</opencsv.version>
         <smooks.version>1.7.0</smooks.version>
         <infinispan.version>9.1.5.Final</infinispan.version>
