@@ -750,8 +750,8 @@
         <caffeine.version>2.5.5</caffeine.version>
         <google-api.version>1.23.0</google-api.version>
         <google-sheets.version>v4-rev493-1.21.0</google-sheets.version>
-        <kafka.version>2.0.0</kafka.version>
-        <docker.version>3.0.14</docker.version>
+        <kafka.version>2.2.2</kafka.version>
+        <docker.version>3.2.0</docker.version>
 
         <jctools.version>2.1.2</jctools.version>
         <commons-codec-version>1.10.L001</commons-codec-version>
@@ -761,7 +761,7 @@
         <resilience4j.version>0.12.1</resilience4j.version>
         <javapoet.version>1.10.0</javapoet.version>
         <hamcrest-all.version>1.3</hamcrest-all.version>
-        <hoverfly-java.version>0.8.1</hoverfly-java.version>
+        <hoverfly-java.version>0.13.0</hoverfly-java.version>
         <javax.jdo.version>3.2.0-m7</javax.jdo.version>
         <datanucleus.version>5.1.1</datanucleus.version>
         <datanucleus-maven-plugin.version>5.0.2</datanucleus-maven-plugin.version>
