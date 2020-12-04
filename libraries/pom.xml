@@ -710,7 +710,7 @@
 
     <properties>
 
-        <googleclient.version>1.23.0</googleclient.version>
+        <googleclient.version>1.28.0</googleclient.version>
         <multiverse.version>0.7.0</multiverse.version>
         <cglib.version>3.2.7</cglib.version>
         <javatuples.version>1.2</javatuples.version>
@@ -718,11 +718,11 @@
         <assertj.version>3.6.2</assertj.version>
         <jsonassert.version>1.5.0</jsonassert.version>
         <javers.version>3.1.0</javers.version>
-        <httpclient.version>4.5.3</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <jnats.version>1.0</jnats.version>
 
 
-        <httpclient.version>4.5.3</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <neuroph.version>2.92</neuroph.version>
         <serenity.version>1.9.26</serenity.version>
         <serenity.jbehave.version>1.41.0</serenity.jbehave.version>
@@ -748,10 +748,10 @@
         <cache.version>1.0.0</cache.version>
         <hazelcast.version>3.10.2</hazelcast.version>
         <caffeine.version>2.5.5</caffeine.version>
-        <google-api.version>1.23.0</google-api.version>
+        <google-api.version>1.28.0</google-api.version>
         <google-sheets.version>v4-rev493-1.21.0</google-sheets.version>
         <kafka.version>2.0.0</kafka.version>
-        <docker.version>3.0.14</docker.version>
+        <docker.version>3.2.0</docker.version>
 
         <jctools.version>2.1.2</jctools.version>
         <commons-codec-version>1.10.L001</commons-codec-version>
@@ -774,7 +774,7 @@
         <quartz.version>2.3.0</quartz.version>
         <jool.version>0.9.12</jool.version>
         <jmh.version>1.19</jmh.version>
-        <groovy.version>2.5.2</groovy.version>
+        <groovy.version>3.0.7</groovy.version>
         <noexception.version>1.1.0</noexception.version>
         <logging-interceptor.version>3.9.0</logging-interceptor.version>
         <yarg.version>2.0.4</yarg.version>
