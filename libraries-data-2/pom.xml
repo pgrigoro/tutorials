@@ -136,7 +136,7 @@
         <jaxb-api.version>2.1</jaxb-api.version>
         <google-api.version>1.23.0</google-api.version>
         <opencsv.version>4.1</opencsv.version>
-        <smooks.version>1.7.0</smooks.version>
+        <smooks.version>1.7.1</smooks.version>
         <infinispan.version>9.1.5.Final</infinispan.version>
         <google-sheets.version>v4-rev493-1.21.0</google-sheets.version>
         <jackson.version>2.9.8</jackson.version>
