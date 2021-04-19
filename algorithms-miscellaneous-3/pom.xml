@@ -89,6 +89,6 @@
         <guava.version>28.0-jre</guava.version>
         <retrofit.version>2.6.0</retrofit.version>
         <jmh-core.version>1.19</jmh-core.version>
-        <jmh-generator.version>1.19</jmh-generator.version>
+        <jmh-generator.version>1.29</jmh-generator.version>
     </properties>
 </project>
