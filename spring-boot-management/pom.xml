@@ -16,7 +16,7 @@
     <properties>
         <start-class>com.baeldung.spring.boot.management.logging.LoggingApplication</start-class>
         <java.version>1.8</java.version>
-        <spring-boot-admin-starter-client.version>2.1.6</spring-boot-admin-starter-client.version>
+        <spring-boot-admin-starter-client.version>2.3.0</spring-boot-admin-starter-client.version>
     </properties>
 
     <dependencies>
