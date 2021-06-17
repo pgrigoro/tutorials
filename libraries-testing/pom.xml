@@ -135,7 +135,7 @@
 		<dependency>
 			<groupId>org.asciidoctor</groupId>
 			<artifactId>asciidoctor-maven-plugin</artifactId>
-			<version>1.5.7.1</version>
+			<version>2.0.0</version>
 		</dependency>
 
 	</dependencies>
@@ -168,8 +168,8 @@
 		<serenity.plugin.version>1.9.27</serenity.plugin.version>
 		<jsonassert.version>1.5.0</jsonassert.version>
 		<awaitility.version>3.0.0</awaitility.version>
-		<hoverfly-java.version>0.8.1</hoverfly-java.version>
-		<spring.version>4.3.8.RELEASE</spring.version>
+		<hoverfly-java.version>0.13.0</hoverfly-java.version>
+		<spring.version>4.3.14.RELEASE</spring.version>
 		<spring-mock-mvc.version>3.0.3</spring-mock-mvc.version>
 		<assertj.version>3.6.2</assertj.version>
 		<java-hamcrest.version>2.0.0.0</java-hamcrest.version>
