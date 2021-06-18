@@ -18,9 +18,9 @@
         <h2.version>1.4.199</h2.version>
         <httpPort>9080</httpPort>
         <httpsPort>9443</httpsPort>
-        <nimbus-jose-jwt.version>7.3</nimbus-jose-jwt.version>
-        <bcprov-jdk15on.version>1.62</bcprov-jdk15on.version>
-        <bcpkix-jdk15on.version>1.62</bcpkix-jdk15on.version>
+        <nimbus-jose-jwt.version>8.21.1</nimbus-jose-jwt.version>
+        <bcprov-jdk15on.version>1.66</bcprov-jdk15on.version>
+        <bcpkix-jdk15on.version>1.66</bcpkix-jdk15on.version>
     </properties>
 
     <dependencies>
